@@ -51,7 +51,7 @@ Output -
 ![outout](output.png)
 
 
-![img.png](docs/k8_ui.png)
+![img.png](k8_ui.png)
 
 Additional commands - 
 - Getting nodes list

@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  sample:
+    container_name: sample
+    build: .
+    ports:
+      - 4100:4100

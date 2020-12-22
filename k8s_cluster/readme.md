@@ -29,7 +29,7 @@ kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
 
 
 ```shell
-kubectl create deployment -f  nginx-pod.yaml
+kubectl create -f  nginx-pod.yaml
 ```
 ![img_3.png](img_3.png)
 
